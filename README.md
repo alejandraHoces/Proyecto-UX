@@ -1,4 +1,5 @@
 # **RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**  
+Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasajes, utiliza EASYBUS una App que te ayuda a ahorrar.
 
 >Track: Common Core.  
 Unidad: Primer proyecto Ux.  
