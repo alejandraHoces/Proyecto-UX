@@ -1,26 +1,27 @@
-## RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES  
+# RETO UX : NUEVA EXPERIENCIA EN EMPRESAS DE BUSES  
+
 Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasajes, utiliza EASYBUS una App que te ayuda a ahorrar.  
 
 ![imageneasybus](https://user-images.githubusercontent.com/31807340/36388620-791de5d8-156a-11e8-916f-8fb93edc4efb.png)
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
-#### Desarrollado en el Bootcamp de Laboratoria.
-
->Track: Common Core.  
+> Track: Common Core.  
 Unidad: Primer proyecto Ux.  
 
-### **Planteamiento del problema**  
+### Planteamiento del problema  
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.  
 
 *Dado este contexto.*
 
 → **¿Cómo hacer para crear un producto que mejore la experiencia en empresas de buses?**  
 
-# ***DESARROLLO DEL PROYECTO***
+### DESARROLLO DEL PROYECTO
 
 #### Día 1 
 
-### **PLANIFICACION** 
+### PLANIFICACION 
 
 ![Hoja de planificacion](assets/images/planificacion.JPG)  
 #### Día 1 :
@@ -79,14 +80,10 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 - **Exposicion final**
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.  
-     
-# 
 
-#### Día 2
+### UX RESEARCH Y ANALISIS DE USUARIO.
 
-## **UX RESEARCH Y ANALISIS DE USUARIO.**
-
-## **Encuestas presenciales.**
+#### Encuestas presenciales.
 
 ![Hoja de planificacion](assets/images/collage.jpg)  
 
@@ -96,7 +93,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
    - Punto 2: Av.28 de Julio –La Victoria: Agencias de Transporte Terrestre.
 - Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
 
-### **Preguntas:**
+#### Preguntas:
 
 1. ¿Alguna experiencia buena o mala con los servicios que ofrece
  la empresa de buses?
@@ -120,7 +117,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 10. ¿Cuál es el problema más recurrente al viajar en festividades?
 
 
-#### **Respuesta de uno de los entrevistados:**
+#### Respuesta de uno de los entrevistados:
 
   - *Viajo por motivos familiares.*   
   - *Siempre viajo por confianza.*  
@@ -129,7 +126,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
   - *El precio se incrementa de los pasajes.*
 
 
-#### **Según las encuestas que realizamos el 60% de las personas nos indican que desean :**  
+#### Según las encuestas que realizamos el 60% de las personas nos indican que desean : 
 
 - Rapidez en la venta de pasajes.  
 - Que la empresa de buses en la que viajaran sea cómoda y económica.  
@@ -137,7 +134,7 @@ Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Dur
 - Eligen a la empresa en la que viajaran por que hay mucha seguridad.  
 - Eligen a la empresa de buses en la que viajaran por ser conocida y recomendada.
 
-## **Encuestas on-line.**
+#### Encuestas on-line.
 Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades así como también los problemas más frecuentes al viajar en bus.
 
 ![Encuestas](assets/images/encuesta.jpg)  
@@ -145,7 +142,7 @@ Se encuesto a 39 personas de entre 20 a 52 años para averiguar sus necesidades 
 ![Encuestas](assets/images/encuesta2.jpg)
 
 #### Día 3 
-## **DIAGRAMA DE AFINIDAD**
+### DIAGRAMA DE AFINIDAD
 
 Se desarrolló el análisis de las encuestas realizadas para poder recopilar toda la información y los problemas encontrados.
 
@@ -164,7 +161,7 @@ Por ejemplo :
 ![Diagrama](assets/images/diagrama-3.jpg)
 
 #### Día 4 
-## **PRESENTACIÓN DEL PROBLEMA**
+### PRESENTACIÓN DEL PROBLEMA**
 
 Temas encontrados en el diagrama de afinidad.
 
@@ -183,7 +180,7 @@ Después de analizar  las entrevistas presenciales y las encuestas on-line y hab
 ![Diagrama](assets/images/diagrama-4.jpg)
 
 #### Día 5 
-## **USER PERSON, PROBLEM STATEMENT, HMW, WHAT IF y STORYBOARD**
+### USER PERSON, PROBLEM STATEMENT, HMW, WHAT IF y STORYBOARD
 
 Con la información obtenida en las entrevistas, ahora tenemos que definir a nuestro USER PERSONA.
 
@@ -208,13 +205,13 @@ Con la información obtenida en las entrevistas, ahora tenemos que definir a nue
   - ¿Qué tal si Ana no tiene un Smartphone?
   - ¿Qué tal si la agencia le reservará un asiento a Ana por fiestas?
 
-## **STORYBOARD**
+### STORYBOARD
 
 ![storyboard](assets/images/storyboard1.jpg)
 ![storyboard2](assets/images/storyboard2.jpg)
 
 #### Día 6 
-## **PROTOTYPING CONTENT**
+### PROTOTYPING CONTENT
 
 Se realizó  un primer content prototype, en el cual recibimos feedback de otro squads, y nos ayudo a: 
 
@@ -223,8 +220,6 @@ Se realizó  un primer content prototype, en el cual recibimos feedback de otro 
 - A empezar a tener una noción tangible de nuestro proyecto
 
 ![prototipo](assets/images/testeoprototipo.jpeg)
-
-##
 
 #### Content prototype final
 
@@ -338,7 +333,7 @@ Estas son las empresas que te llevan a tu destino, recuerda que la disponibilida
 
 #### Día 7
 
-## **PROTOTYPING ANTERIORES Y TESTEO**
+### PROTOTYPING ANTERIORES Y TESTEO**
 
 Diversos prototipos, realizados para mejorar el flujo de la aplicación.
 ![prototipo](assets/images/prototipos.jpeg)
@@ -351,7 +346,7 @@ Testeó a diversas personas que nos ayudaron a implementar un mejor prototipo.
 ![prototipo](assets/images/TESTEOS.jpg)
 #### Día 8
 
-## **PROTOTYPING FINAL**
+### PROTOTYPING FINAL
 
 ![prototipo](assets/images/prototipo1.png)
 ![prototipo](assets/images/prototipo2.png)
