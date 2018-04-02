@@ -2,7 +2,7 @@
 
 Si quieres viajar en fiestas o feriados y no quieres gastar demás en tus pasajes, utiliza EASYBUS una App que te ayuda a ahorrar, comprar y reservar.  
 
-![imageneasybus](https://user-images.githubusercontent.com/31807340/36388620-791de5d8-156a-11e8-916f-8fb93edc4efb.png)
+![easybus](https://user-images.githubusercontent.com/31807340/38208941-3da996da-3678-11e8-9378-ac0bbd6b4ba7.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
